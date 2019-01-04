@@ -1,5 +1,5 @@
 Make VoIP great Again
-=====================================
+=====================
 
 Blog d'appui permettant de mieux suivre mes astuces en matière de VoIP.
 
